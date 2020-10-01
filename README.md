@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="https://raw.githubusercontent.com/pedrorambo/proffy/master/media/mobile-demo.gif" />
+    <img src="https://raw.githubusercontent.com/rocketseat-education/nlw-02-discovery/eb1a43a1acb31affb3913fa4fb9a0ab7f67881bb/.github/logo.svg" title="Proffy"              src="https://repository-images.githubusercontent.com/284816171/03743600-d68a-11ea-91b2-db303c3fe512" />
+    <title="Proffy" src="https://raw.githubusercontent.com/pedrorambo/proffy/master/media/mobile-demo.gif" />
 </h1>
 
 <p align="center">
